@@ -21,33 +21,33 @@ li{
 <ol>
  
 <li>
-<b>Dinh-Son Tran</b>, Hyung-Jeong Yang*, Soo-Hyung Kim, and Gueesang Lee <a href="https://link.springer.com/article/10.1007/s11042-020-10156-5" target="_blank">Real-time virtual mouse system using RGB-D images and fingertip detection</a> <i>Multimedia Tools and Applications</i>, November 2020 (Q1, <strong>IF: 2.6</strong>)
+<b>Dinh-Son Tran</b>, Hyung-Jeong Yang*, Soo-Hyung Kim, and Gueesang Lee <a href="https://link.springer.com/article/10.1007/s11042-020-10156-5" target="_blank">Real-time virtual mouse system using RGB-D images and fingertip detection</a>, <i>Multimedia Tools and Applications</i>, November 2020 (Q1, <strong>IF:</strong> 2.6)
 </li>
 
 <li>
-Jung-Joon Cha, <b>Dinh-Son Tran</b>, Jinyong Ha, Jung-Sun Kim, Sung-Jin Hong, Byeong-Keuk, Kim, Young-Guk Ko, Donghoon Choi, Myeong-Ki Hong, and Yangsoo Jang <a href="https://www.nature.com/articles/s41598-020-77507-y" target="_blank">Optical coherence tomography-based machine learning for predicting fractional flow reserve in intermediate coronary stenosis: a feasibility study</a> <i>Scientific Reports</i>, November 2020 (Q1, <strong>IF:3.998</strong>)
-</li>
-
-
-<li>
-<b>Dinh-Son Tran</b>, Ngoc-Huynh Ho, Hyung-Jeong Yang*, Soo-Hyung Kim, Gueesang Lee, and Eu-Tteum Baek <a href="https://www.mdpi.com/2076-3417/10/2/722" target="_blank">Hand Gesture Spotting and Recognition using RGB-D Camera and 3D CNN</a> <i>Applied Sciences</i>, January 2020 (Q1, <strong>IF: 2.490</strong>)
+Jung-Joon Cha, <b>Dinh-Son Tran</b>, Jinyong Ha, Jung-Sun Kim, Sung-Jin Hong, Byeong-Keuk, Kim, Young-Guk Ko, Donghoon Choi, Myeong-Ki Hong, and Yangsoo Jang <a href="https://www.nature.com/articles/s41598-020-77507-y" target="_blank">Optical coherence tomography-based machine learning for predicting fractional flow reserve in intermediate coronary stenosis: a feasibility study</a>, <i>Scientific Reports</i>, November 2020 (Q1, <strong>IF:</strong> 3.998)
 </li>
 
 
 <li>
-<b>Dinh-Son Tran</b>, Hyung-Jeong Yang*, Soo-Hyung Kim, Gueesang Lee, Luu Ngoc Do, Ngoc-Huynh Ho, and Van Quan Nguyen<a href="https://dl.acm.org/doi/10.1145/3184066.3184086" target="_blank">Audio-based emotion recognition using GMM supervector an SVM linear kernel</a> <i>ICMLSC 2018</i>, 2018 (Best Paper)
+<b>Dinh-Son Tran</b>, Ngoc-Huynh Ho, Hyung-Jeong Yang*, Soo-Hyung Kim, Gueesang Lee, and Eu-Tteum Baek <a href="https://www.mdpi.com/2076-3417/10/2/722" target="_blank">Hand Gesture Spotting and Recognition using RGB-D Camera and 3D CNN</a>, <i>Applied Sciences</i>, January 2020 (Q1, <strong>IF:</strong> 2.490)
+</li>
+
+
+<li>
+<b>Dinh-Son Tran</b>, Hyung-Jeong Yang*, Soo-Hyung Kim, Gueesang Lee, Luu Ngoc Do, Ngoc-Huynh Ho, and Van Quan Nguyen<a href="https://dl.acm.org/doi/10.1145/3184066.3184086" target="_blank">Audio-based emotion recognition using GMM supervector an SVM linear kernel</a>, <i>ICMLSC 2018</i>, 2018 (<strong>Best Paper</strong>)
 </li>
 
 <li>
-<b>Dinh-Son Tran</b>, Hyung-Jeong Yang*, Soo-Hyung Kim, Guee Sang Lee, and Mi-sun Kim <a href="http://sclab.cafe24.com/publications/handgesture_using_3DCNN_final_version.pdf" target="_blank">Hand Gesture Recognition in Depth Videos using 3 Dimensional Convolution Neural Network</a> <i>The International Conference on Big data, IoT, and Cloud Computing BIC2018(GCS, ITRC)</i>, 2018
+<b>Dinh-Son Tran</b>, Hyung-Jeong Yang*, Soo-Hyung Kim, Guee Sang Lee, and Mi-sun Kim <a href="http://sclab.cafe24.com/publications/handgesture_using_3DCNN_final_version.pdf" target="_blank">Hand Gesture Recognition in Depth Videos using 3 Dimensional Convolution Neural Network</a>, <i>BIC 2018</i>, 2018
 </li>
 
 <li>
-<b>Dinh-Son Tran</b>, Phap Do Cong Nguyen, Hyung-Jeong Yang*, Jung-Joon Min1, and Sae-Ryung Kang <a href="http://sclab.cafe24.com/publications/%EA%B5%AD%EB%82%B4%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_Phap(201905).pdf" target="_blank">Bone Age estimation using whole-body bone scintigraphy"</a> <i>멀티미디어춘계학술대회 pp. 47-50</i>, 2019.05 (Best Paper)
+<b>Dinh-Son Tran</b>, Phap Do Cong Nguyen, Hyung-Jeong Yang*, Jung-Joon Min1, and Sae-Ryung Kang <a href="http://sclab.cafe24.com/publications/%EA%B5%AD%EB%82%B4%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_Phap(201905).pdf" target="_blank">Bone Age estimation using whole-body bone scintigraphy"</a>, <i>멀티미디어춘계학술대회 pp. 47-50</i>, 2019.05 (<strong>Best Paper</strong>)
 </li>
  
 <li> 
- Ha C. N., Thao N. T., and <b>Son T. D.</b> Student part-time employment: Case study at Ton Duc Thang University in Vietnam, <i>9th International Conference of Education, Research and Innovation</i>, 2016
+ Ha C. N., Thao N. T., and <b>Son T. D.</b> <aStudent part-time employment: Case study at Ton Duc Thang University in Vietnam</a>, <i>9th International Conference of Education, Research and Innovation</i>, 2016
 </li>
 
 </ol>
