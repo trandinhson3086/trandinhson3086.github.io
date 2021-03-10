@@ -9,8 +9,8 @@ images:
   - name: s2.jpg
     thumb: s2.jpg
     text: Halab (2020).
-  - name: s3.jpg
-    thumb: s3.PG
+  - name: s3.JPG
+    thumb: s3.JPG
     text: graduation (2019).
 
 ---
