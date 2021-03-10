@@ -8,10 +8,10 @@ images:
     text: AIthe (2020).
   - name: s2.jpg
     thumb: s2.jpg
-    text: Aithe (2020).
+    text: Halab (2020).
   - name: s3.jpg
-    thumb: s3.jpg
-    text: Lab (2019).
+    thumb: s3.PG
+    text: graduation (2019).
 
 ---
 
