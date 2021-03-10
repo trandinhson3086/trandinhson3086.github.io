@@ -31,7 +31,7 @@ title: Experiences
 
 </ul>
 
-<ul><h1>[06/2019 -> Present] Computer Vision Researcher at <a href="http://sclab.cafe24.com/" target="_blank">Smart Computing LABoratory, Chonnam National University</a></h1>
+<ul><h1>[03/2017 -> 03/2019] Computer Vision Researcher at <a href="http://sclab.cafe24.com/" target="_blank">Smart Computing LABoratory, Chonnam National University</a></h1>
 <li>Developed a real-time hand gesture recognition system using 3D-CNN and Kinect Depth Sensors</li>
 <li>Bone Age estimation using whole-body SPECT, Bone Tumor Detection in X-Ray images</li>
 <li>Audio-based emotion recognition</li>
